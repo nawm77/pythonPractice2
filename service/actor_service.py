@@ -24,6 +24,7 @@ def update_one_by_id(id, actor):
             elem["age"] = actor["age"]
             elem["social network"] = actor["social network"]
             json_service.save_into_database(db)
+            print(f"Актер {elem['name']} успешно обновлен")
             return elem
     return {"message": f"Элемент с id {id} не найден"}
 
@@ -36,6 +37,7 @@ def create_one(actor):
         last_id = 0
     db[entity_name].append({"id": last_id + 1, **actor})
     json_service.save_into_database(db)
+    print(f"Актер с именем {actor['name']} успешно сохранен")
 
 
 def delete_one_by_id(id):
