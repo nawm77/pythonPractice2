@@ -1,0 +1,87 @@
+{
+    "theatre" : "Alexandrinsky theatre",
+    "address": "пл. Островского, 6",
+    "performances": [
+        {
+            "id": 1,
+            "name": "Hamlet",
+            "time": "2 часа 50 минут",
+            "date": "23.02.2024",
+            "ticket price": 3000
+        },
+        {
+            "id": 2,
+            "name": "Romeo and Juliet",
+            "time": "2 часа 30 минут",
+            "date": "15.02.2024",
+            "ticket price": 2500
+        },
+        {
+            "id": 3,
+            "name": "Cherry Orchard",
+            "time": "2 часа 10 минут",
+            "date": "05.03.2024",
+            "ticket price": 3100
+        }
+    ],
+    "roles": [
+        {
+            "id": 1,
+            "name":"Romeo",
+            "type":"main"
+        },
+        {
+            "id": 2,
+            "name":"Mercutio",
+            "type":"secondary"
+        },
+        {
+           "id":3,
+            "name":"Juliet",
+            "type":"main"
+        }
+    ],
+    "actors": [
+        {
+            "id": 1,
+            "name": "Константин Хабенский",
+            "age": "51",
+            "social network": "@khabensky_konsnantin_fan"
+        },
+        {
+            "id": 2,
+            "name": "Михаил Пореченков",
+            "age": 54,
+            "social network": "porechenkov_official"
+        },
+        {
+            "id": 3,
+            "name": "Ольга Литвинова",
+            "age": 40,
+            "social network": "@OlgaLitvinova_official"
+        }
+    ],
+    "audience": [
+        {
+            "id": 1,
+            "name": "Васюткина Ангелина",
+            "age": 20,
+            "phone":"+79811455284",
+            "email": "cornflower@mail.com"
+        },
+        {
+            "id": 2,
+            "name": "Хорошечкин Павел",
+            "age": 24,
+            "phone": "+79811618446",
+            "email": "Coolguy@mail.com"
+        },
+        {
+            "id": 3,
+            "name": "Приозерова Анна",
+            "age": 28,
+            "phone": "+79814615070",
+            "email": "RayofSunshine@mail.com"
+        }
+    ]
+}
