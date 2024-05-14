@@ -2,7 +2,6 @@ import csv
 import networkx as nx
 
 floor_files = ['0st.csv', '1st.csv', '3st.csv', '4st.csv', '5st.csv']
-#
 floor_graphs = {}
 for f in floor_files:
     graph_data = []
