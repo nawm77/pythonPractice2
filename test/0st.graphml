@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="time" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Гл. лестница" />
+    <node id="1001" />
+    <node id="1002" />
+    <node id="1003" />
+    <node id="1004" />
+    <node id="1005" />
+    <node id="Лестница" />
+    <node id="1015(Гардероб)" />
+    <node id="1016(Гардероб)" />
+    <node id="1022" />
+    <node id="1024" />
+    <node id="Эдиссон экспресс" />
+    <node id="1036" />
+    <node id="1037" />
+    <node id="1038" />
+    <node id="1039" />
+    <node id="1040" />
+    <node id="1041" />
+    <node id="1145" />
+    <edge source="Гл. лестница" target="1001">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Гл. лестница" target="1022">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Гл. лестница" target="1024">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Гл. лестница" target="1041">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="1001" target="1002">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="1001" target="1015(Гардероб)">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1002" target="1003">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1003" target="1004">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1004" target="1005">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1005" target="Лестница">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Лестница" target="1015(Гардероб)">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Лестница" target="1016(Гардероб)">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Лестница" target="Эдиссон экспресс">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1015(Гардероб)" target="1016(Гардероб)">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1022" target="1024">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="1022" target="Эдиссон экспресс">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="1024" target="Эдиссон экспресс">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="1036" target="1037">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1036" target="1145">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="1037" target="1038">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1038" target="1039">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="1039" target="1040">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1040" target="1041">
+      <data key="d0">4</data>
+    </edge>
+  </graph>
+</graphml>

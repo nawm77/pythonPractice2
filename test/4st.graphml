@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="time" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Гл. лестница" />
+    <node id="1401-1" />
+    <node id="1401-2" />
+    <node id="1401-3" />
+    <node id="1402" />
+    <node id="1403-1" />
+    <node id="1403-2" />
+    <node id="1403-3" />
+    <node id="1403-4" />
+    <node id="Лестница" />
+    <node id="1404" />
+    <node id="1405-1" />
+    <node id="1405" />
+    <node id="1405-2" />
+    <node id="1405-3" />
+    <node id="1406" />
+    <node id="1406-1" />
+    <node id="1419" />
+    <node id="1420-1" />
+    <node id="1420-2" />
+    <node id="1421" />
+    <node id="Жен. Туалет" />
+    <node id="1417" />
+    <node id="Муж. Туалет" />
+    <node id="1323" />
+    <node id="1416" />
+    <node id="1415" />
+    <node id="1414-2" />
+    <node id="1414-1" />
+    <node id="1413" />
+    <node id="1412" />
+    <node id="1411" />
+    <node id="1410" />
+    <node id="1409" />
+    <node id="1408" />
+    <node id="1407" />
+    <edge source="Гл. лестница" target="1401-1">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="1401-1" target="1401-2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1401-2" target="1401-3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1401-3" target="1402">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="1402" target="1403-1">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="1403-1" target="1403-2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1403-2" target="1403-3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1403-3" target="1403-4">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1403-4" target="Лестница">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Лестница" target="1404">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Лестница" target="1417">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Лестница" target="Муж. Туалет">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1404" target="1405-1">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1405-1" target="1405">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="1405" target="1405-2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1405-2" target="1405-3">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1405-3" target="1406">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="1406" target="1406-1">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1419" target="1420-1">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="1420-1" target="1420-2">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="1420-2" target="1421">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1421" target="Жен. Туалет">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Жен. Туалет" target="1417">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Муж. Туалет" target="1323">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="1323" target="1416">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="1416" target="1415">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="1415" target="1414-2">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1414-2" target="1414-1">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1414-1" target="1413">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="1413" target="1412">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="1412" target="1411">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="1411" target="1410">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="1410" target="1409">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="1409" target="1408">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="1408" target="1407">
+      <data key="d0">6</data>
+    </edge>
+  </graph>
+</graphml>
