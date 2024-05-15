@@ -2,7 +2,7 @@ import csv
 import networkx as nx
 
 graph_data = []
-with open('3st.csv', newline='', encoding='utf-8-sig') as csvfile:
+with open('../3st.csv', newline='', encoding='utf-8-sig') as csvfile:
     reader = csv.reader(csvfile, delimiter=';')
     for row in reader:
         graph_data.append(row)
